@@ -30,7 +30,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Nome do Projeto 1** | [🔗 Ver online](https://pavanelli-dev.github.io/Pagina_sobre_mim/) | HTML / CSS / JS          |
 
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
+
 
 ---
 
