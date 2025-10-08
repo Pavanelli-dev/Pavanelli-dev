@@ -25,7 +25,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://pavanelli-dev.github.io/Pagina_sobre_mim/) | HTML / CSS / JS          |
+| **Perfil** | [🔗 Ver online](https://pavanelli-dev.github.io/Pagina_sobre_mim/) | HTML / CSS / JS          |
+| **Flex Box** | [🔗 Ver online](https://pavanelli-dev.github.io/aula_html_css_licao/) | HTML / CSS /           |
 
 
 
